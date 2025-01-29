@@ -1,0 +1,24 @@
+{
+  "name": "btcwallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber0Ulmo/BtcWallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyber0Ulmo/BtcWallet/issues"
+  },
+  "homepage": "https://github.com/Cyber0Ulmo/BtcWallet#readme",
+  "description": "",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7"
+  }
+}
